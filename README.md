@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arin-69-git
 - 👀 I’m interested in sleeping
-- 🌱 I’m currently learning data science
+- 🌱 I’m currently learning Machine learning 
 - 💞️ I’m looking to collaborate with myself           
 - 📫 How to reach me instagram: @arin_69_
 - ⚡ Fun fact:i am fun
